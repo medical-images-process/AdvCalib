@@ -13,7 +13,7 @@ The output of the segmentation network from unlabeld images can be used as pseud
 Furthermore, imposing virtual adversarial noise makes the classification network be more robust to noise, and gives higher performance. I changed [this method](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8417973) for the segmentation network.
 
 
-The code are heavily borrowed from the pytorch implementation of the original work ([Link](https://github.com/hfslyc/AdvSemiSeg)), temperature scaling ([Link](https://github.com/gpleiss/temperature_scaling)), and Virtual Adversarail Training (VAT) ([Link] (https://github.com/9310gaurav/virtual-adversarial-training)).
+The code are heavily borrowed from the pytorch implementation of the original work ([Link](https://github.com/hfslyc/AdvSemiSeg)), temperature scaling ([Link](https://github.com/gpleiss/temperature_scaling)), and Virtual Adversarail Training (VAT) ([Link](https://github.com/9310gaurav/virtual-adversarial-training)).
 
 ## Prerequisite
 
